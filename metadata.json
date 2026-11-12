@@ -1,0 +1,8 @@
+{
+  "name": "TourBuzz Live - Inbound Tourism & Live Tracking",
+  "description": "Premium inbound tour booking and management platform for international travelers with dynamic itineraries, PDF travel document generation, and real-time tour GPS tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
